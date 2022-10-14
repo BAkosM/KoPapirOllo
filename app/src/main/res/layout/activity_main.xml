@@ -8,7 +8,7 @@
 
     <ImageView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="200dp"
         android:id="@+id/tekpo"
         android:src="@drawable/paper"
         android:layout_centerHorizontal="true"/>
@@ -22,7 +22,7 @@
         android:layout_centerHorizontal="true"/>
     <ImageView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="200dp"
         android:id="@+id/gepkpo"
         android:layout_below="@+id/te"
         android:src="@drawable/paper"
